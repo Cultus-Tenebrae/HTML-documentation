@@ -1,2 +1,2 @@
-# HTML_documentation
+# HTML-documentation
 Документация по языку гипертекстовой разметки web-страниц.
