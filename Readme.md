@@ -16,10 +16,10 @@
 ![Размер файла документации](<https://img.shields.io/github/size/Cultus-Tenebrae/HTML-documentation/Документация [HTML].pdf?label=Размер%20файла%20документации&labelColor=important>)
 [![Загрузка последнего релиза](<https://img.shields.io/badge/Скачать-PDF-red?labelColor=lime>)](<https://github.com/Cultus-Tenebrae/HTML-documentation/releases/latest/download/HTML-documentation.pdf> "Приступить к загрузке&hellip;")
 
-## Описание *проекта*:
+## Описание *проекта*
 —
 
-## Содержание *документации*:
+## Содержание *документации*
 —
 
 ![Дата создания репо](<https://img.shields.io/github/created-at/Cultus-Tenebrae/HTML-documentation?logo=github&logoColor=white&logoSize=auto&label=Дата%20создания%20репо&labelColor=informational>)
