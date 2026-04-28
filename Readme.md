@@ -2,8 +2,8 @@
 <!-- Метки — Разное -->
 ![Документация](<https://img.shields.io/badge/Документация-Cultus%20Tenebrae-black?logo=html5&&logoColor=white&logoSize=auto&labelColor=informational> "HTML") \
 ![Контрибьюторы](<https://img.shields.io/github/contributors/Cultus-Tenebrae/HTML-documentation?logo=github&logoColor=white&logoSize=auto&label=Контрибьюторы&labelColor=informational>)
-![Наблюдатели](<https://img.shields.io/github/watchers/Cultus-Tenebrae/HTML-documentation?logo=github&logoColor=black&logoSize=auto&label=Наблюдатели>)
-![Звёзды](<https://img.shields.io/github/stars/Cultus-Tenebrae/HTML-documentation?logo=github&logoColor=black&logoSize=auto&label=Звёзды>)
+![Наблюдатели](<https://img.shields.io/github/watchers/Cultus-Tenebrae/HTML-documentation?label=Наблюдатели>)
+![Звёзды](<https://img.shields.io/github/stars/Cultus-Tenebrae/HTML-documentation?label=Звёзды>)
 ![Обсуждения](<https://img.shields.io/github/discussions/Cultus-Tenebrae/HTML-documentation?logo=github&logoColor=white&logoSize=auto&label=Обсуждения&labelColor=important>)
 
 <!-- Метки — Статистика последнего релиза -->
